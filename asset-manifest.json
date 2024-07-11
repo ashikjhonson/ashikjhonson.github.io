@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2b97436e.css",
+    "main.js": "/static/js/main.5485e957.js",
+    "static/media/me.png": "/static/media/me.829fc8042dd0e159b805.png",
+    "static/media/cl5.jpeg": "/static/media/cl5.dacce265f25460030423.jpeg",
+    "static/media/cl6.jpeg": "/static/media/cl6.84a5d0e883873e40d023.jpeg",
+    "static/media/c2.jpg": "/static/media/c2.c78a26c65a59130b4fb8.jpg",
+    "static/media/cl1.jpg": "/static/media/cl1.be61e465de4bf34d9c60.jpg",
+    "static/media/e1.jpeg": "/static/media/e1.30da43bf8979502a7472.jpeg",
+    "static/media/th2.jpg": "/static/media/th2.cb7fde018711ece7fb1f.jpg",
+    "static/media/th1.jpeg": "/static/media/th1.3035e322c94bbc14888a.jpeg",
+    "static/media/c3.jpeg": "/static/media/c3.287a17084a99c6f01ab4.jpeg",
+    "static/media/e3.jpeg": "/static/media/e3.786dbb9362061789ad89.jpeg",
+    "static/media/java.jpeg": "/static/media/java.8450687a7e19e3673f77.jpeg",
+    "static/media/developer.jpg": "/static/media/developer.e32a540efaa623a29b0c.jpg",
+    "static/media/c1.jpg": "/static/media/c1.c6b12e0e044503d8fa70.jpg",
+    "static/media/tantra.jpeg": "/static/media/tantra.5f5e4c3aca412b6a0ae3.jpeg",
+    "static/media/quiz.jpeg": "/static/media/quiz.6e23e1c7693c3d0f92ea.jpeg",
+    "static/media/p1.jpeg": "/static/media/p1.469c49fbc5f34726ae76.jpeg",
+    "static/media/th3.jpeg": "/static/media/th3.316a5d6125915666a05a.jpeg",
+    "static/media/resume.pdf": "/static/media/resume.0b6ff194c1f4e81de3cb.pdf",
+    "static/media/code.jpg": "/static/media/code.910e2b9418cf4aca0298.jpg",
+    "static/media/aws.jpeg": "/static/media/aws.8ccaa126b65487fd2db2.jpeg",
+    "static/media/web.png": "/static/media/web.18dd1deba291ef83ed25.png",
+    "static/media/ktu-lab.jpeg": "/static/media/ktu-lab.1bb174391c21c7e96b4f.jpeg",
+    "static/media/logo.jpg": "/static/media/logo.5a8032a14aae94f3ac66.jpg",
+    "static/media/pyramid.svg": "/static/media/pyramid.6204ea745f501f0725a1061afdded7a2.svg",
+    "static/media/dp.svg": "/static/media/dp.e257d173901301e94a77d460367b7bc7.svg",
+    "static/media/dstar.svg": "/static/media/dstar.e426b999d0b9c1bca56919db8dd81f26.svg",
+    "static/media/li-arrow.svg": "/static/media/li-arrow.60d5e22a93bf56ac299e6dedd792a1fc.svg",
+    "index.html": "/index.html",
+    "main.2b97436e.css.map": "/static/css/main.2b97436e.css.map",
+    "main.5485e957.js.map": "/static/js/main.5485e957.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b97436e.css",
+    "static/js/main.5485e957.js"
+  ]
+}
